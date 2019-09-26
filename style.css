@@ -6,7 +6,35 @@
         text-align:center;
      } 
      #main{ 
-        width:1024px; 
+        width:1024px;
+        height: 1024px; 
         margin:0 auto; 
         text-align:left; 
      } 
+.about_me p{
+    font:18pt serif;
+    line-height: 150%;
+}
+li{
+    font:18pt serif;
+}
+.about_me{
+    text-align:left; 
+
+}
+.skils{
+    text-align:left; 
+    font:18pt serif; 
+}
+.experience{
+    text-align:left; 
+    font:18pt serif; 
+}
+.education{
+    text-align:left; 
+    font:18pt serif;
+}
+.english{
+    text-align:left; 
+    font:18pt serif;
+}
