@@ -1,40 +1,38 @@
-*{ 
-    margin:0; 
-    padding:0; 
-    }
-    body{ 
-        text-align:center;
-     } 
-     #main{ 
-        width:1024px;
-        height: 1024px; 
-        margin:0 auto; 
-        text-align:left; 
-     } 
-.about_me p{
-    font:18pt serif;
-    line-height: 150%;
+body {
+  width: 1024px;
+  margin: 0 auto;
+  
 }
-li{
-    font:18pt serif;
-}
-.about_me{
-    text-align:left; 
 
+
+main {
+  background-image: url(  "https://zabavnik.club/wp-content/uploads/background_1_06154645.jpg" )  ;
+  
 }
-.skils{
-    text-align:left; 
-    font:18pt serif; 
+
+
+h1 {
+  color: blue;
+  text-transform: none;
 }
-.experience{
-    text-align:left; 
-    font:18pt serif; 
+
+img {
+ 
+  width: 100%;
+  
 }
-.education{
-    text-align:left; 
-    font:18pt serif;
+
+.code {
+  background-color: light-gray;
+  width: 100%;
+  height: 150px;
 }
-.english{
-    text-align:left; 
-    font:18pt serif;
+
+.avatar {
+   border: 1px solid gray;
+   border-radius: 50%;
+   width: 200px;
+   height: 200px;
+   overflow: hidden;
+   
 }
